@@ -37,7 +37,7 @@
     "css-parse": "~2.0.0",
     "css-value": "~0.0.1",
     "deepmerge": "~0.2.7",
-    "ejs": "^2.3.1",
+    "ejs": "^3.1.10",
     "glob": "^5.0.10",
     "inquirer": "^0.8.5",
     "json-stringify-safe": "^5.0.1",
